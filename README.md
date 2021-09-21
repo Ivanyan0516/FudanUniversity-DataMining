@@ -1,9 +1,4 @@
-# 复旦大数据 Data Mining-数据挖掘实务
-
-* 作者：[周嘉楠](https://www.zhoujianan.com)
-* 教师：[朱雪宁](https://xueningzhu.github.io/)
-* 时间：2020年春季学期
-* 编号：DATA620007
+# Data Mining
 
 ## [Introduction](https://github.com/jrothschild33/FudanUniversity-DataMining)
 
